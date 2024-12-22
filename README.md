@@ -1,1 +1,1 @@
-This repo represents clone of the original Youtube.com home page with only HTML and CSS
+This repo shows a clone of the original Youtube home page without functionality. I built it in order to practice my new learned skills with both html and css. It is a page with a navigation, footer and body with a couple videos.
