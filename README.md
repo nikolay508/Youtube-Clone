@@ -8,7 +8,7 @@ Video Thumbnails: Displays a few video thumbnails as seen on the homepage.<br>
 Footer Section: Includes a footer with various links, just like the original page.
 
 ## 🚀 Technologies Used
-HTML5
+HTML5<br>
 CSS3
 
 ## 📄 How It Works
