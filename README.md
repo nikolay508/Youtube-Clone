@@ -5,7 +5,7 @@ YouTube Home Page Clone is a static replica of the original YouTube homepage, bu
 ## ✨ Features
 Navigation Bar: Mimics the YouTube top navigation, with links and icons.<br>
 Video Thumbnails: Displays a few video thumbnails as seen on the homepage.<br>
-Footer Section: Includes a footer with various links, just like the original page.
+Footer Section: Includes a footer just like the original page.
 
 ## 🚀 Technologies Used
 HTML5<br>
